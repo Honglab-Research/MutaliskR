@@ -1,0 +1,48 @@
+Signature,Signature_Group,Color,Text_Color
+ID1,Defective DNA Mismatch Repair,#FF8650,#000000
+ID2,Defective DNA Mismatch Repair,#FF8650,#000000
+ID3,Tobacco Smoking/Chewing,#00C891,#000000
+ID4,Unknown,#808080,#FFFFFF
+ID5,Unknown,#808080,#FFFFFF
+ID6,Non-Homologous End Joining Repair Deficiency,#B06382,#FFFFFF
+ID7,Defective DNA Mismatch Repair,#FF8650,#000000
+ID8,Non-Homologous End Joining Repair Deficiency,#B06382,#FFFFFF
+ID9,Unknown,#808080,#FFFFFF
+ID10,Unknown,#808080,#FFFFFF
+ID11,Unknown,#808080,#FFFFFF
+ID12,Unknown,#808080,#FFFFFF
+ID13,Ultraviolet Light Exposure,#8BF18B,#000000
+ID14,Unknown,#808080,#FFFFFF
+ID15,Unknown,#808080,#FFFFFF
+ID16,Unknown,#808080,#FFFFFF
+ID17,Unknown,#808080,#FFFFFF
+ID18,Colibactin Exposure,#40d8ae,#FFFFFF
+BI_ID1_P,Defective DNA Mismatch Repair,#FF8650,#000000
+BI_ID2_P,Defective DNA Mismatch Repair,#FF8650,#000000
+BI_ID3_P,Tobacco Smoking/Chewing,#00C891,#000000
+BI_ID4_P,Unknown,#808080,#FFFFFF
+BI_ID5_P,Predominant in Kidney,#F8AFB3,#000000
+BI_ID6_P,Homologous Recombination Deficiency,#FF555E,#FFFFFF
+BI_ID7_S,Defective DNA Mismatch Repair,#FF8650,#000000
+BI_ID8_P,Non-Homologous End Joining Repair Deficiency,#B06382,#FFFFFF
+BI_ID9_P,Unknown,#808080,#FFFFFF
+BI_ID10_P,Unknown,#808080,#FFFFFF
+BI_ID11_P,Exclusive to Pancreatic Adenocarcinoma,#6E7BA2,#FFFFFF
+BI_ID12_P,Defective DNA Mismatch Repair,#FF8650,#000000
+BI_ID13_S,Ultraviolet Light Exposure,#8BF18B,#000000
+BI_ID14_P,Unknown,#808080,#FFFFFF
+BI_ID18_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID19_S,Ultraviolet Light Exposure,#8BF18B,#000000
+BI_ID20_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID21_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID22_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID23_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID24_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID25_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID26_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID27_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID28_S,POLE and MSI Variants,#FFDAC1,#000000
+BI_ID29_S,Predominant in Melanoma,#BBD642,#000000
+BI_ID30_S,MSI Variant,#4F6E7C,#FFFFFF
+BI_ID31_P,Unknown,#808080,#FFFFFF
+BI_ID32_S,Unknown,#808080,#FFFFFF

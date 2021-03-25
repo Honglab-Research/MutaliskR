@@ -1,0 +1,12 @@
+Signature,Source,Signature_Group,Color
+DBS1,PCAWG,Ultraviolet Light Exposure,#8BF18B
+DBS2,PCAWG,Tobacco Smoking/Chewing,#00C891
+DBS3,PCAWG,POLE Mutations,#FFDAC1
+DBS4,PCAWG,Unknown,#808080
+DBS5,PCAWG,Prior Treatment with Platinum Drugs,#CCCCCC
+DBS6,PCAWG,Unknown,#808080
+DBS7,PCAWG,Defective DNA Mismatch Repair,#FF8650
+DBS8,PCAWG,Unknown,#808080
+DBS9,PCAWG,Unknown,#808080
+DBS10,PCAWG,Defective DNA Mismatch Repair,#FF8650
+DBS11,PCAWG,Possible APOBEC Activity,#F99D4D
