@@ -814,7 +814,7 @@ IdentifyIndelSignatures <- function(input,
   }
 
   # Step 4. Identify signatures
-  PrintLog("Step 4/6 - Identifying SBS mutational signatures.")
+  PrintLog("Step 4/6 - Identifying INDEL mutational signatures.")
   results <- IdentifySignatures(data = prepared.indel.data$df.indel.frequencies,
                                 reference = reference,
                                 target.signatures = target.signatures,
@@ -828,7 +828,7 @@ IdentifyIndelSignatures <- function(input,
   # Step 5. Identify signatures per variant
   results.variants <- data.frame()
   if (analyze.variants == TRUE) {
-    PrintLog("Step 5/6 - Identifying SBS mutational signatures for each variant.")
+    PrintLog("Step 5/6 - Identifying INDEL mutational signatures for each variant.")
     for (i in 1:nrow(results)) {
       signatures.count <- as.integer(results[i, 'Signatures_Count'])
       df.curr.model.variant.signatures <- IdentifyVariantSignatures(prepared.data = prepared.indel.data,

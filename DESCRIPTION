@@ -2,7 +2,7 @@ Package: MutaliskR
 Type: Package
 Title: MutaliskR
 Description: MutaliskR is a general-purpose mutational signature identification tool that uses maximum likelihood estimation to perform linear regression.
-Version: 0.4.5
+Version: 0.4.6
 Authors: Andy Jinseok Lee
 Maintainer: Andy Jinseok Lee <andyjinseoklee@gmail.com>
 Depends:
